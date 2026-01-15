@@ -78,4 +78,4 @@ for set_id in set_ids:
 
         download_file(png_url, png_path)
 
-print(f"✅ Done. Emotes saved to {OUT}/")
+print(f"Emotes saved to {OUT}/")
